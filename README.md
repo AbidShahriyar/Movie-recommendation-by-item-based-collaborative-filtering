@@ -1,4 +1,4 @@
-# Movie-recommendation-by-user-based-collaborative-filtering
+# Movie-recommendation-by-item-based-collaborative-filtering
 A movie recommendation engine is built using correlation matrix and item similarity scores from movie ratings data
 downloaded from movielens project of grouplens.org
 
